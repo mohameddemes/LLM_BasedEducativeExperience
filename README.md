@@ -1,4 +1,4 @@
-# 2023-m1cns-sa-ter-llmBasedEducativeExperience
+# llmBasedEducativeExperience
 ## Contexte
 Ce projet intègre des modèles de langage avancés (LLM) pour soutenir les enseignants et enrichir l'expérience des étudiants. L'assistant développé permet d'analyser des contenus éducatifs et de générer des interactions basées sur ces analyses, facilitant ainsi la création de matériel pédagogique interactif.
 
